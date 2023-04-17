@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AppArchivosRegistro</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="correo_hint">Correo electronico:</string>
+    <string name="contra_hint">Contraseña:</string>
+    <string name="text_btn">INICIAR SESIÓN</string>
+    <string name="text_title">REGISTRO DE PACIENTES</string>
+    <string name="dpi_hint">INGRESE EL DPI:</string>
+    <string name="nombre_hint">INGRESE EL NOMBRE:</string>
+    <string name="direccion_hint">INGRESE LA DIRECCION:</string>
+    <string name="telefono_hint">INGRESE EL TELEFONO:</string>
+    <string name="temperatura_hint">TEMPERATURA:</string>
+    <string name="text_btn_guardar">GUARDAR</string>
+    <string name="text_btn_salir">SALIR</string>
+    <string name="text_btn_consultar">CONSULTAR</string>
+</resources>
